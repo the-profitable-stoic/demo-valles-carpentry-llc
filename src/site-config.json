@@ -1,0 +1,588 @@
+{
+  "business": {
+    "name": "Valles Carpentry LLC",
+    "phone": "+14059228502",
+    "category": "carpenter",
+    "city": "Oklahoma City",
+    "state": "OK"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Oklahoma City's Trusted Carpenter",
+      "heroSubline": "Valles Carpentry delivers quality craftsmanship and reliable service throughout the metro. Get a free quote today!",
+      "aboutTitle": "Crafting Oklahoma City, One Project at a Time",
+      "aboutText": [
+        "Valles Carpentry LLC was founded over a decade ago with a simple mission: to provide honest, dependable carpentry services to our neighbors in Oklahoma City. What started as a small operation has grown into a trusted name, thanks to our commitment to quality and customer satisfaction.",
+        "We believe in doing things the right way, every time. From the initial consultation to the final nail, we prioritize clear communication, meticulous attention to detail, and a dedication to exceeding your expectations. We're not just building structures; we're building relationships.",
+        "As a locally owned and operated business, we're deeply invested in the Oklahoma City community. We source materials locally whenever possible, support local charities, and strive to contribute to the growth and prosperity of our vibrant city."
+      ],
+      "valueProps": [
+        {
+          "title": "Experienced Craftsmen",
+          "description": "Our team brings years of expertise to every project, ensuring exceptional results."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "We're committed to being on time, staying on budget, and delivering on our promises."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "We use only the finest materials to ensure durability and lasting beauty."
+        },
+        {
+          "title": "Customer Satisfaction",
+          "description": "Your happiness is our top priority. We're not satisfied until you are."
+        }
+      ],
+      "ctaHeadline": "Ready to Start Your Project?",
+      "ctaSubline": "Contact Valles Carpentry today for a free consultation and estimate."
+    },
+    "services": [
+      {
+        "slug": "custom-cabinets",
+        "name": "Custom Cabinets",
+        "shortDescription": "Elevate your home with handcrafted custom cabinets designed to your exact specifications.",
+        "description": "Tired of cookie-cutter cabinets that don't fit your space or style? Valles Carpentry specializes in creating custom cabinets that are both beautiful and functional. We work with you to design cabinets that perfectly complement your home's aesthetic and meet your unique storage needs. From kitchen remodels in Nichols Hills to bathroom upgrades in Mesta Park, we've transformed countless spaces with our custom cabinetry. We handle everything from material selection (considering Oklahoma's humidity) to expert installation, ensuring a seamless and stress-free experience. Our cabinets are built to last, using durable materials and time-tested construction techniques. We understand the need to maximize space, especially in Oklahoma City's older homes. Let us design and build the perfect custom cabinets for your home.",
+        "process": [
+          "Step 1: Initial Consultation: Discuss your needs, style preferences, and budget.",
+          "Step 2: Design & Planning: We create detailed designs and provide material samples.",
+          "Step 3: Fabrication: Our skilled craftsmen build your cabinets with precision.",
+          "Step 4: Installation: We install your cabinets with care and attention to detail."
+        ],
+        "benefits": [
+          "Maximize storage space",
+          "Enhance your home's value",
+          "Create a unique and personalized look",
+          "Enjoy durable and long-lasting cabinets"
+        ],
+        "faq": [
+          {
+            "question": "What types of wood do you use for custom cabinets?",
+            "answer": "We offer a wide variety of wood options, including oak, maple, cherry, and walnut. We can also work with other materials upon request."
+          },
+          {
+            "question": "How long does it take to get custom cabinets installed?",
+            "answer": "The timeline depends on the complexity of the project, but typically it takes 4-6 weeks from design to installation."
+          },
+          {
+            "question": "Do you offer cabinet refacing services?",
+            "answer": "Yes, we offer cabinet refacing as a more budget-friendly alternative to full cabinet replacement."
+          }
+        ]
+      },
+      {
+        "slug": "deck-building",
+        "name": "Deck Building & Repair",
+        "shortDescription": "Create the perfect outdoor living space with a custom-built deck from Valles Carpentry.",
+        "description": "Oklahoma City's weather demands a deck that can withstand both scorching summers and occasional ice storms. Valles Carpentry specializes in building and repairing decks that are not only beautiful but also durable and weather-resistant. We use high-quality materials, such as treated lumber and composite decking, to ensure your deck lasts for years to come. Whether you're looking to build a brand-new deck, expand an existing one, or simply repair some damaged boards, we've got you covered. We understand the importance of proper drainage and structural integrity, especially with Oklahoma's clay soil. Our experienced team will ensure your deck is built to code and designed to withstand the elements. Imagine enjoying warm summer evenings on your new deck, grilling with friends and family. Let Valles Carpentry make that dream a reality.",
+        "process": [
+          "Step 1: Site Assessment: We evaluate your property and discuss your deck design ideas.",
+          "Step 2: Permitting: We handle all necessary permits and inspections.",
+          "Step 3: Construction: We build your deck with precision and attention to detail.",
+          "Step 4: Finishing: We apply protective coatings and ensure a beautiful final product."
+        ],
+        "benefits": [
+          "Increase your home's value",
+          "Expand your outdoor living space",
+          "Create a relaxing and enjoyable environment",
+          "Enjoy a durable and long-lasting deck"
+        ],
+        "faq": [
+          {
+            "question": "What types of decking materials do you offer?",
+            "answer": "We offer a variety of decking materials, including treated lumber, composite decking, and cedar. We can help you choose the best option for your budget and needs."
+          },
+          {
+            "question": "Do I need a permit to build a deck in Oklahoma City?",
+            "answer": "Yes, in most cases, you will need a permit to build a deck. We can handle the permitting process for you."
+          },
+          {
+            "question": "How long does it take to build a deck?",
+            "answer": "The timeline depends on the size and complexity of the deck, but typically it takes 1-3 weeks."
+          }
+        ]
+      },
+      {
+        "slug": "fence-installation",
+        "name": "Fence Installation & Repair",
+        "shortDescription": "Protect your property and enhance its curb appeal with a professionally installed fence.",
+        "description": "In Oklahoma City, a sturdy fence is essential for security, privacy, and property value. Valles Carpentry specializes in fence installation and repair, offering a wide range of styles and materials to suit your needs. Whether you're looking for a classic wood fence, a low-maintenance vinyl fence, or a secure chain-link fence, we can help. We understand the challenges of Oklahoma's climate, including strong winds and fluctuating temperatures. Our fences are built to withstand the elements, using durable materials and proper installation techniques. We also offer fence repair services to keep your existing fence in top condition. From replacing damaged posts to repairing broken panels, we can handle any fence repair job, big or small. Protect your family, pets, and property with a professionally installed fence from Valles Carpentry.",
+        "process": [
+          "Step 1: Consultation: Discuss your fencing needs and preferences.",
+          "Step 2: Material Selection: Choose the right fencing material for your budget and style.",
+          "Step 3: Installation: We install your fence with precision and care.",
+          "Step 4: Cleanup: We leave your property clean and tidy."
+        ],
+        "benefits": [
+          "Enhance your property's security",
+          "Increase your privacy",
+          "Improve your curb appeal",
+          "Protect your pets and children"
+        ],
+        "faq": [
+          {
+            "question": "What types of fences do you install?",
+            "answer": "We install a variety of fences, including wood fences, vinyl fences, chain-link fences, and wrought-iron fences."
+          },
+          {
+            "question": "How much does it cost to install a fence?",
+            "answer": "The cost of fence installation depends on the material, size, and complexity of the project. We offer free estimates."
+          },
+          {
+            "question": "Do you offer fence staining and painting services?",
+            "answer": "Yes, we offer fence staining and painting services to protect and beautify your fence."
+          }
+        ]
+      },
+      {
+        "slug": "trim-and-molding",
+        "name": "Trim and Molding Installation",
+        "shortDescription": "Add elegance and sophistication to your home with expertly installed trim and molding.",
+        "description": "The right trim and molding can transform a room from ordinary to extraordinary. Valles Carpentry specializes in trim and molding installation, offering a wide range of styles and materials to enhance your home's aesthetic. From crown molding to baseboards, we can create a custom look that perfectly complements your décor. We understand the importance of precise cuts and seamless joints, especially in Oklahoma City's older homes with uneven walls. Our experienced team will ensure your trim and molding is installed flawlessly, adding value and beauty to your home. Whether you're renovating a historic home in Mesta Park or updating a modern condo in Bricktown, we can help you choose the perfect trim and molding to achieve your desired look. We also handle repairs to existing trim and molding, fixing cracks, gaps, and other imperfections.",
+        "process": [
+          "Step 1: Consultation: Discuss your trim and molding preferences.",
+          "Step 2: Material Selection: Choose the right trim and molding for your style and budget.",
+          "Step 3: Installation: We install your trim and molding with precision and care.",
+          "Step 4: Finishing: We caulk and paint your trim and molding for a flawless finish."
+        ],
+        "benefits": [
+          "Enhance your home's aesthetic",
+          "Add value to your property",
+          "Create a custom and personalized look",
+          "Conceal imperfections and add architectural interest"
+        ],
+        "faq": [
+          {
+            "question": "What types of trim and molding do you install?",
+            "answer": "We install a variety of trim and molding, including crown molding, baseboards, chair rails, and door casings."
+          },
+          {
+            "question": "Can you match existing trim and molding?",
+            "answer": "Yes, we can match existing trim and molding to ensure a seamless look."
+          },
+          {
+            "question": "Do you offer painting services for trim and molding?",
+            "answer": "Yes, we offer painting services for trim and molding to provide a complete and professional finish."
+          }
+        ]
+      },
+      {
+        "slug": "door-installation",
+        "name": "Door Installation & Repair",
+        "shortDescription": "Upgrade your home's security and style with professional door installation and repair services.",
+        "description": "A properly installed door is crucial for security, energy efficiency, and curb appeal. Valles Carpentry specializes in door installation and repair, offering a wide range of styles and materials to suit your needs. Whether you're looking for a new front door, a secure back door, or stylish interior doors, we can help. We understand the importance of a tight seal to prevent drafts and leaks, especially during Oklahoma's harsh weather. Our experienced team will ensure your doors are installed correctly, providing years of reliable performance. We also offer door repair services, fixing squeaks, sticking, and other common door problems. From replacing damaged hinges to repairing rotten wood, we can handle any door repair job, big or small. Enhance your home's security and style with professional door installation and repair from Valles Carpentry.",
+        "process": [
+          "Step 1: Consultation: Discuss your door needs and preferences.",
+          "Step 2: Door Selection: Choose the right door for your style and budget.",
+          "Step 3: Installation: We install your door with precision and care.",
+          "Step 4: Finishing: We ensure a tight seal and smooth operation."
+        ],
+        "benefits": [
+          "Enhance your home's security",
+          "Improve your energy efficiency",
+          "Increase your curb appeal",
+          "Add value to your property"
+        ],
+        "faq": [
+          {
+            "question": "What types of doors do you install?",
+            "answer": "We install a variety of doors, including front doors, back doors, interior doors, and patio doors."
+          },
+          {
+            "question": "Do you offer door painting and staining services?",
+            "answer": "Yes, we offer door painting and staining services to match your home's aesthetic."
+          },
+          {
+            "question": "Can you install a storm door?",
+            "answer": "Yes, we can install a storm door to protect your front door from the elements."
+          }
+        ]
+      },
+      {
+        "slug": "wood-rot-repair",
+        "name": "Wood Rot Repair",
+        "shortDescription": "Protect your home from structural damage with expert wood rot repair services.",
+        "description": "Wood rot is a common problem in Oklahoma, especially with our fluctuating humidity and occasional flooding. Valles Carpentry specializes in wood rot repair, helping homeowners protect their properties from structural damage. We identify and remove rotted wood, replace it with durable materials, and prevent future rot with proper sealing and treatment. From siding to trim to structural beams, we can repair any type of wood rot damage. We understand the importance of addressing wood rot quickly to prevent it from spreading and causing more extensive damage. Our experienced team will assess the extent of the damage and provide a comprehensive repair plan. Don't let wood rot compromise the integrity of your home. Contact Valles Carpentry for expert wood rot repair services.",
+        "process": [
+          "Step 1: Inspection: We identify and assess the extent of the wood rot damage.",
+          "Step 2: Removal: We carefully remove the rotted wood.",
+          "Step 3: Repair: We replace the rotted wood with durable materials.",
+          "Step 4: Prevention: We seal and treat the area to prevent future rot."
+        ],
+        "benefits": [
+          "Protect your home from structural damage",
+          "Prevent the spread of wood rot",
+          "Maintain your home's value",
+          "Avoid costly repairs in the future"
+        ],
+        "faq": [
+          {
+            "question": "What causes wood rot?",
+            "answer": "Wood rot is caused by fungi that thrive in moist environments."
+          },
+          {
+            "question": "How can I prevent wood rot?",
+            "answer": "You can prevent wood rot by keeping wood dry, sealing it properly, and treating it with a wood preservative."
+          },
+          {
+            "question": "How much does wood rot repair cost?",
+            "answer": "The cost of wood rot repair depends on the extent of the damage. We offer free estimates."
+          }
+        ]
+      },
+      {
+        "slug": "remodeling-services",
+        "name": "Home Remodeling Services",
+        "shortDescription": "Transform your living space with comprehensive home remodeling services tailored to your vision.",
+        "description": "Dreaming of a kitchen upgrade, a bathroom renovation, or a complete home makeover? Valles Carpentry offers comprehensive home remodeling services to transform your living space into the home of your dreams. We handle every aspect of the remodeling process, from design and planning to construction and finishing. We work closely with you to understand your vision and create a custom remodeling plan that fits your budget and style. We understand the challenges of remodeling in Oklahoma City, including working with older homes and navigating local building codes. Our experienced team will ensure your remodeling project is completed on time, on budget, and to your complete satisfaction. Increase your home's value and create a more comfortable and functional living space with home remodeling services from Valles Carpentry.",
+        "process": [
+          "Step 1: Consultation: Discuss your remodeling goals and budget.",
+          "Step 2: Design & Planning: We create detailed designs and obtain necessary permits.",
+          "Step 3: Construction: We manage all aspects of the construction process.",
+          "Step 4: Finishing: We ensure a beautiful and functional final product."
+        ],
+        "benefits": [
+          "Increase your home's value",
+          "Create a more comfortable and functional living space",
+          "Personalize your home to your unique style",
+          "Improve your quality of life"
+        ],
+        "faq": [
+          {
+            "question": "How long does a remodeling project take?",
+            "answer": "The timeline depends on the scope of the project. We provide realistic timelines during the planning phase."
+          },
+          {
+            "question": "How much does a remodeling project cost?",
+            "answer": "The cost depends on the scope of the project, materials, and labor. We offer detailed estimates."
+          },
+          {
+            "question": "Do I need permits for my remodeling project?",
+            "answer": "Yes, in most cases, you will need permits. We can handle the permitting process for you."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Oklahoma City",
+        "slug": "oklahoma-city-ok",
+        "state": "OK",
+        "content": "Valles Carpentry LLC is proud to offer expert carpentry services to the residents and businesses of Oklahoma City. From custom cabinetry and intricate trim work to sturdy framing and reliable repairs, we bring unparalleled craftsmanship and attention to detail to every project. We understand the unique architectural styles found throughout OKC, from the historic homes in Heritage Hills to the modern designs downtown, and tailor our services to seamlessly blend with your property's existing character.\n\nWhether you're renovating your kitchen, building a new deck, or simply need a skilled carpenter for a small repair, Valles Carpentry LLC is committed to providing exceptional service and lasting results. We use only the highest quality materials and proven techniques to ensure your complete satisfaction. We take pride in being a part of the Oklahoma City community and contributing to its continued growth and beauty.",
+        "localContext": "Oklahoma City, the state capital, is a vibrant and growing metropolis known for its thriving arts scene, delicious cuisine, and friendly atmosphere. With a diverse population and a strong sense of community, OKC offers a unique blend of urban amenities and small-town charm.",
+        "nearbyAreas": [
+          "Edmond",
+          "Moore",
+          "Norman"
+        ]
+      },
+      {
+        "city": "Edmond",
+        "slug": "edmond-ok",
+        "state": "OK",
+        "content": "Valles Carpentry LLC extends its superior carpentry services to the thriving community of Edmond, Oklahoma. We understand the importance of quality and craftsmanship in Edmond homes and businesses, and we strive to exceed expectations with every project we undertake. From custom-built bookshelves and elegant crown molding to durable decks and reliable structural repairs, we are dedicated to providing exceptional results.\n\nWe are familiar with the diverse architectural styles found throughout Edmond, and tailor our services to meet the specific needs of each client. Whether you're looking to enhance the beauty of your home or improve the functionality of your business, Valles Carpentry LLC is here to help. We pride ourselves on our attention to detail, commitment to customer satisfaction, and use of only the finest materials.",
+        "localContext": "Edmond is a family-friendly city known for its excellent schools, beautiful parks, and strong sense of community. It's a popular place to live, work, and raise a family, offering a high quality of life.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Guthrie",
+          "Piedmont"
+        ]
+      },
+      {
+        "city": "Norman",
+        "slug": "norman-ok",
+        "state": "OK",
+        "content": "Valles Carpentry LLC is pleased to serve the residents and businesses of Norman, Oklahoma, with our comprehensive range of carpentry services. From custom cabinetry design and installation to expert framing and repair work, we bring skill and precision to every project. We understand the unique needs of Norman homeowners and business owners, and we are committed to delivering exceptional results that enhance the beauty and value of their properties.\n\nWhether you're renovating your home near the University of Oklahoma, building a new commercial space, or simply need a reliable carpenter for a small repair, Valles Carpentry LLC is here to help. We pride ourselves on our attention to detail, commitment to customer satisfaction, and use of only the highest quality materials. We are dedicated to providing lasting solutions that meet your specific needs and exceed your expectations.",
+        "localContext": "Norman is a vibrant college town, home to the University of Oklahoma, known for its lively atmosphere, cultural attractions, and strong sense of community. It offers a mix of small-town charm and big-city amenities.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Moore",
+          "Purcell"
+        ]
+      },
+      {
+        "city": "Moore",
+        "slug": "moore-ok",
+        "state": "OK",
+        "content": "Valles Carpentry LLC is dedicated to providing the residents of Moore, Oklahoma, with top-quality carpentry services. We offer a wide range of solutions, from custom-built furniture and intricate trim work to structural repairs and home renovations. We understand the specific needs of Moore homeowners, and we are committed to delivering exceptional craftsmanship and lasting results.\n\nWhether you're looking to add a personal touch to your home with custom cabinetry, repair storm damage, or simply need a reliable carpenter for a small project, Valles Carpentry LLC is here to help. We use only the highest quality materials and proven techniques to ensure your complete satisfaction. We take pride in serving the Moore community and contributing to its continued growth and prosperity.",
+        "localContext": "Moore is a family-oriented community with a strong sense of resilience and community spirit. Known for its friendly atmosphere and convenient location, it's a great place to call home.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Norman",
+          "Newcastle"
+        ]
+      },
+      {
+        "city": "Mustang",
+        "slug": "mustang-ok",
+        "state": "OK",
+        "content": "Valles Carpentry LLC is proud to offer its expert carpentry services to the growing community of Mustang, Oklahoma. We understand the importance of quality craftsmanship and attention to detail in Mustang homes and businesses. From custom cabinetry and detailed trim work to robust framing and reliable repairs, we bring unparalleled skill to every project.\n\nWhether you're renovating your kitchen, building a new deck, or simply need a skilled carpenter for a small repair, Valles Carpentry LLC is committed to providing exceptional service and lasting results. We use only the highest quality materials and proven techniques to ensure your complete satisfaction.",
+        "localContext": "Mustang is a rapidly growing city known for its excellent schools and family-friendly environment. It offers a blend of small-town charm and convenient access to the amenities of Oklahoma City.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Yukon",
+          "Tuttle"
+        ]
+      },
+      {
+        "city": "Yukon",
+        "slug": "yukon-ok",
+        "state": "OK",
+        "content": "Valles Carpentry LLC is pleased to serve the residents and businesses of Yukon, Oklahoma, with our comprehensive range of carpentry services. From custom cabinetry design and installation to expert framing and repair work, we bring skill and precision to every project. We understand the unique needs of Yukon homeowners and business owners, and we are committed to delivering exceptional results that enhance the beauty and value of their properties.\n\nWhether you're renovating your home, building a new commercial space, or simply need a reliable carpenter for a small repair, Valles Carpentry LLC is here to help. We pride ourselves on our attention to detail, commitment to customer satisfaction, and use of only the highest quality materials.",
+        "localContext": "Yukon is a historic city with a strong sense of community and a rich agricultural heritage. Known for its Czech Hall and annual Czech Festival, it offers a unique blend of tradition and modern amenities.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Mustang",
+          "Piedmont"
+        ]
+      },
+      {
+        "city": "Piedmont",
+        "slug": "piedmont-ok",
+        "state": "OK",
+        "content": "Valles Carpentry LLC is dedicated to providing the residents of Piedmont, Oklahoma, with top-quality carpentry services. We offer a wide range of solutions, from custom-built furniture and intricate trim work to structural repairs and home renovations. We understand the specific needs of Piedmont homeowners, and we are committed to delivering exceptional craftsmanship and lasting results.\n\nWhether you're looking to add a personal touch to your home with custom cabinetry, repair storm damage, or simply need a reliable carpenter for a small project, Valles Carpentry LLC is here to help. We use only the highest quality materials and proven techniques to ensure your complete satisfaction.",
+        "localContext": "Piedmont is a growing community with a rural feel, known for its excellent schools and family-friendly atmosphere. It offers a peaceful escape from the hustle and bustle of city life, while still being close to urban amenities.",
+        "nearbyAreas": [
+          "Edmond",
+          "Yukon",
+          "Okarche"
+        ]
+      },
+      {
+        "city": "Choctaw",
+        "slug": "choctaw-ok",
+        "state": "OK",
+        "content": "Valles Carpentry LLC is proud to extend its expert carpentry services to the community of Choctaw, Oklahoma. We understand the importance of quality and craftsmanship in Choctaw homes and businesses, and we strive to exceed expectations with every project we undertake. From custom-built bookshelves and elegant crown molding to durable decks and reliable structural repairs, we are dedicated to providing exceptional results.\n\nWe are familiar with the diverse architectural styles found throughout Choctaw, and tailor our services to meet the specific needs of each client. Whether you're looking to enhance the beauty of your home or improve the functionality of your business, Valles Carpentry LLC is here to help. We pride ourselves on our attention to detail, commitment to customer satisfaction, and use of only the finest materials.",
+        "localContext": "Choctaw is a close-knit community with a strong sense of pride and tradition. Known for its excellent schools and family-friendly environment, it offers a high quality of life.",
+        "nearbyAreas": [
+          "Midwest City",
+          "Nicoma Park",
+          "Harrah"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Custom Cabinets",
+        "text": "Valles Carpentry built the most beautiful custom cabinets for our kitchen remodel. The quality is outstanding, and they really listened to what we wanted. The installation was smooth and professional. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Deck Repair",
+        "text": "Our deck was in rough shape after the winter. Valles Carpentry came out and repaired the damaged boards quickly and efficiently. The price was fair, and the work was excellent.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Fence Installation",
+        "text": "We needed a new fence for our backyard, and Valles Carpentry did a fantastic job. The fence looks great, provides the privacy we wanted, and was installed with care. Very happy with their service.",
+        "date": "2024-09-08"
+      },
+      {
+        "name": "Robert P.",
+        "rating": 5,
+        "service": "Trim and Molding",
+        "text": "Valles Carpentry installed crown molding throughout our home, and it looks amazing. The attention to detail was impressive, and the finished product is beautiful. They were professional and courteous throughout the entire process.",
+        "date": "2024-07-01"
+      },
+      {
+        "name": "Emily S.",
+        "rating": 4,
+        "service": "Door Installation",
+        "text": "We had Valles Carpentry install a new front door, and we're very pleased with the results. The door is secure, energy-efficient, and looks great. The installation was quick and professional.",
+        "date": "2025-01-12"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Wood Rot Repair",
+        "text": "Valles Carpentry repaired some wood rot around our windows, and they did an excellent job. The repair was seamless, and they took the time to properly seal the area to prevent future rot. Highly recommend their services.",
+        "date": "2024-05-22"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Valles Carpentry LLC | Oklahoma City Carpenter",
+        "description": "Trusted carpenter in Oklahoma City, OK. Custom cabinets, decks, fences, trim & more. Call +14059228502 for a free quote!"
+      },
+      "about": {
+        "title": "About Valles Carpentry | Oklahoma City, OK",
+        "description": "Learn about Valles Carpentry's commitment to quality craftsmanship and customer satisfaction in Oklahoma City and surrounding areas."
+      },
+      "services": {
+        "title": "Valles Carpentry Services | Oklahoma City, OK",
+        "description": "Explore our carpentry services: custom cabinets, deck building, fence installation, trim & molding, door installation & wood rot repair."
+      },
+      "contact": {
+        "title": "Contact Valles Carpentry | Oklahoma City, OK",
+        "description": "Contact Valles Carpentry for reliable carpentry services in Oklahoma City. Call +14059228502 or request a free quote online."
+      },
+      "reviews": {
+        "title": "Valles Carpentry Reviews | Oklahoma City, OK",
+        "description": "Read reviews from satisfied Valles Carpentry customers in Oklahoma City. See why we're the trusted choice for carpentry services."
+      },
+      "service-areas": {
+        "title": "Valles Carpentry Service Areas | Oklahoma City, OK",
+        "description": "Valles Carpentry provides carpentry services in Oklahoma City and surrounding areas. Contact us for service in your neighborhood."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "custom-cabinets": "/images/service-custom-cabinets.webp",
+      "deck-building": "/images/service-deck-building.webp",
+      "fence-installation": "/images/service-fence-installation.webp",
+      "trim-and-molding": "/images/service-trim-and-molding.webp",
+      "door-installation": "/images/service-door-installation.webp",
+      "wood-rot-repair": "/images/service-wood-rot-repair.webp",
+      "remodeling-services": "/images/service-remodeling-services.webp"
+    },
+    "servicesResponsive": {
+      "custom-cabinets": {
+        "src": "/images/service-custom-cabinets.webp",
+        "srcset": "/images/service-custom-cabinets-400w.webp 400w, /images/service-custom-cabinets-800w.webp 800w, /images/service-custom-cabinets-1200w.webp 1200w, /images/service-custom-cabinets.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-building": {
+        "src": "/images/service-deck-building.webp",
+        "srcset": "/images/service-deck-building-400w.webp 400w, /images/service-deck-building-800w.webp 800w, /images/service-deck-building-1200w.webp 1200w, /images/service-deck-building.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fence-installation": {
+        "src": "/images/service-fence-installation.webp",
+        "srcset": "/images/service-fence-installation-400w.webp 400w, /images/service-fence-installation-800w.webp 800w, /images/service-fence-installation-1200w.webp 1200w, /images/service-fence-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "trim-and-molding": {
+        "src": "/images/service-trim-and-molding.webp",
+        "srcset": "/images/service-trim-and-molding-400w.webp 400w, /images/service-trim-and-molding-800w.webp 800w, /images/service-trim-and-molding-1200w.webp 1200w, /images/service-trim-and-molding.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "door-installation": {
+        "src": "/images/service-door-installation.webp",
+        "srcset": "/images/service-door-installation-400w.webp 400w, /images/service-door-installation-800w.webp 800w, /images/service-door-installation-1200w.webp 1200w, /images/service-door-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "wood-rot-repair": {
+        "src": "/images/service-wood-rot-repair.webp",
+        "srcset": "/images/service-wood-rot-repair-400w.webp 400w, /images/service-wood-rot-repair-800w.webp 800w, /images/service-wood-rot-repair-1200w.webp 1200w, /images/service-wood-rot-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "remodeling-services": {
+        "src": "/images/service-remodeling-services.webp",
+        "srcset": "/images/service-remodeling-services-400w.webp 400w, /images/service-remodeling-services-800w.webp 800w, /images/service-remodeling-services-1200w.webp 1200w, /images/service-remodeling-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
